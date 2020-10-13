@@ -1,3 +1,4 @@
+[![Build Status](http://18.205.38.129/api/badges/willianvalerio/firstdrone/status.svg)](http://18.205.38.129/willianvalerio/firstdrone)
 # Welcome to your first Drone project!
 
 Feel free to leverage this project as your first Drone project. Can learn
