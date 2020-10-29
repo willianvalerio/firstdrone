@@ -21,4 +21,4 @@ steps:
       from_secret: docker_password
     repo: willianvalerio/harnessworkshop
     tags:
-      - '1.0.3'
+      - '1.0.4'
